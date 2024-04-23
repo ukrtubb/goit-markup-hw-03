@@ -1,5 +1,18 @@
 
 /* ========== General ========== */
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
 
 body {
     font-family: "Roboto", sans-serif;
